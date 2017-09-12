@@ -1,0 +1,27 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "server app",
+  "main": "server.js",
+  "scripts": {
+    "test": "no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.2",
+    "http": "0.0.0",
+    "http-proxy": "^1.16.2",
+    "mongodb": "^2.2.25",
+    "querystring": "^0.2.0",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {
+    "http-proxy-middleware": "^0.17.4"
+  }
+}
